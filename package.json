@@ -2,7 +2,7 @@
   "name": "dog-hat",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://charlieBdev.github.io/react-gh-pages",
+  "homepage": "https://charliebdev.github.io/dog-hat/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
