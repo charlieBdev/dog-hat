@@ -10,8 +10,8 @@ const DogPic = () => {
     
     return (
         <>
-            <img src={dogPic} alt=""></img>
-            <button onClick={handleClick}>Change Pic</button>
+            <img src={dogPic} alt="a dog with or without a hat"></img>
+            <button onClick={handleClick}>Click me</button>
         </>
     )
 }
